@@ -7,4 +7,4 @@ This repository contains scripts, raw data and instruction to replicate the anal
 
 1. The folder [phylogenetic_reconstruction](https://github.com/fcsalgado/polymorphism_spider_rangesize/tree/main/phylogenetic_reconstruction) contains instructions to reconstruct the phylogenies and information about the alignments
 2. The folder [geographical_data_download](https://github.com/fcsalgado/polymorphism_spider_rangesize/tree/main/geographical_data_download) has information to obtain the raw data for all the species included in the analyses
-3. 
+3. The code to replicate the analyses is available [here](https://fcsalgado.github.io/polymorphism_spider_rangesize/). The inputs to run this code is available in the folder [analyses](https://github.com/fcsalgado/polymorphism_spider_rangesize/tree/main/analyses)
