@@ -1,0 +1,321 @@
+species,cat_island,polymorphism,WSC_ISO3,points_gbif,n_points,area_polygon,area_countries_wsc,lat_range,lat_range_wsc,cat_island_points,area_country_pointsCountry,wsc
+Acacesia_hamata,continent,NA,"USA, Central America, South America",396,171,13604713.39,29777772.94,75.194045,98.68615651,continent,4791270.651,"usa,central america,south america"
+Acanthepeira_stellata,island_continent,no,"Canada, USA, Mexico",708,286,6331011.296,21357404.83,31.825419,52.05850925,island_continent,6103077.243,"canada,usa,mexico"
+Acroaspis_169,NA,NA,NA,0,,,,,,,,
+Acroaspis_olorina,continent,no,Australia,18,2,0,7691990.893,0,39.01717104,continent,2526727.456,australia
+Acrosomoides_acrosomoides,island,no,Madagascar,40,27,86654.38519,592983.4955,7.781356,0,island,275742.798,madagascar
+Aculepeira_packardi,island_continent,no,"North America, Russia, Eastern Europe, Kazakhstan, China",290,48,2909754.92,51602952.57,31.993936,55.78063288,island_continent,4199113.076,"north america,russia,eastern europe,kazakhstan,china"
+Acusilas_251,NA,NA,NA,0,,,,,,,,
+Acusilas_coccineus,NA,no,"India, China, Indonesia",94,,,,,,,,
+Agalenatea_redii,island_continent,yes,"Europe, Turkey, Caucasus, Russia, Europe to South Siberia, Iran, Central Asia, China",8215,6060,11371771.95,41751044.33,32.258317,82.10629988,island_continent,16860071.6,"europe,turkey,caucasus,russia,south siberia,iran,central asia,china"
+Alpaida_delicata,continent,no,"Colombia, Peru, Bolivia, Brazil, French Guiana",282,3,0,11982620.85,6.587622,20.61780878,continent,2054339.347,"colombia,peru,bolivia,brazil,french guiana"
+Ameridion_petrum,continent,no,Panama,7,,,,,,,,
+Ameridion_sp,NA,NA,NA,0,,,,,,,,
+Anelosimus_agnar,island,no,Malaysia,0,,,,,,,,
+Anelosimus_amelie,island,no,Comoros,3,,,,,,,,
+Anelosimus_analyticus,continent,no,USA,12,,,,,,,,
+Anelosimus_arizona,continent,no,USA,3,,,,,,,,
+Anelosimus_baeza,continent,no,"mexico, central America, South america",63,5,877447.304,20315045.4,32.867611,84.04525912,continent,137492.5587,"mexico,central america,south america"
+Anelosimus_bali,island,no,Bali,1,,,,,,,,
+Anelosimus_decaryi,island,yes,"Seychelles (Aldabra), Mayotte",7,,,,,,,,
+Anelosimus_domingo,continent,NA,"Colombia, venezuela, Suriname and Peru",28,,,,,,,,
+Anelosimus_dubiosus,continent,no,Brazil,5,1,0,8470788.47,0,0,continent,98225.48135,brazil
+Anelosimus_eidur,island,yes,New Guinea,3,,,,,,,,
+Anelosimus_elegans,continent,no,"Mexico, Central America and South America",14,,,,,,,,
+Anelosimus_ethicus,continent,NA,Brazil,11,3,490984.3762,8470788.47,18.914557,0,continent,714349.4452,brazil
+Anelosimus_eximius,island,no,Lesser Antilles,279,,,,,,,,
+Anelosimus_guacamayos,continent,no,Ecuador,16,,,,,,,,
+Anelosimus_jabaquara,continent,yes,Brazil,8,,,,,,,,
+Anelosimus_jucundus,continent,no,"Mexico, Central America and South America",294,1,0,20315045.4,0,84.04525912,continent,9773.924231,"mexico,central america,south america"
+Anelosimus_kohi,island,yes,Malaysia,7,,,,,,,,
+Anelosimus_linda,island,no,Malaysia,1,,,,,,,,
+Anelosimus_may,island,no,Madagascar,15,,,,,,,,
+Anelosimus_nigrescens,continent,yes,Guyana,6,,,,,,,,
+Anelosimus_nr,NA,NA,NA,1,,,,,,,,
+Anelosimus_octavius,continent,no,"Mexico, central america",9,,,,,,,,
+Anelosimus_oritoyacu,continent,no,"Mexico, central america, Ecuador, Colombia",4,,,,,,,,
+Anelosimus_pacificus,continent,no,Mexico to Costa Rica,8,,,,,,,,
+Anelosimus_pomio,island,no,Papua New Guinea,1,,,,,,,,
+Anelosimus_potmosbi,island,no,New Guinea,2,,,,,,,,
+Anelosimus_pratchetti,continent,no,Australia,8,4,10072.97161,7691990.893,9.486129,39.01717104,continent,2530852.75,australia
+Anelosimus_rupununi,continent,yes,"Trinidad, surinam, french guayana, guayana, Brazil",21,,,,,,,,
+Anelosimus_sp,NA,NA,NA,0,,,,,,,,
+Anelosimus_studiosus,island_continent,no,"north america, central america, south america",373,33,8557145.754,39715123.3,73.894168,109.6740354,island_continent,1742949.782,"north america,central america,south america"
+Anelosimus_tosus,continent,no,"Mexico, central america, Colombia, Ecuador, Peru",10,3,50619.30729,5155360.169,12.611726,33.0945463,continent,116722.4432,"mexico,central america,colombia,ecuador,peru"
+Anepsion_sp,NA,NA,NA,0,,,,,,,,
+Arachnura_higginsi,island_continent,yes,Australia,627,274,2472932.531,7691990.893,14.804806,39.01717104,island_continent,19025465.69,australia
+Arachnura_scorpionoides,island_continent,yes,"Ethiopia, Congo, South Africa, Seychelles, Mayotte, Madagascar, Mauritius, Réunion",51,10,83540.4872,5267713.592,4.503727,37.63218552,continent,222755.8366,"ethiopia,congo,south africa,seychelles,mayotte,madagascar,mauritius,rü¾Ž–”¼union"
+Araneus_albotriangulus,island_continent,NA,Australia,313,192,1374789.76,7691990.893,26.444649,39.01717104,island_continent,15585136.42,australia
+Araneus_bicentenarius,island_continent,NA,"USA, Canada",1172,713,5664747.753,19400077.9,22.721599,52.05850925,island_continent,7809485.76,"usa,canada"
+Araneus_cavaticus,continent,no,"USA, Canada",240,113,658514.823,19400077.9,12.818232,52.05850925,continent,3232505.335,"usa,canada"
+Araneus_diadematus,island_continent,NA,"Europe, Middle East, Turkey, Caucasus, Russia, Europe, Iran, Central Asia, China, Japan., Introduced to North America",54895,7125,41756412.19,66616678.03,42.38883,82.10629988,island_continent,39996600.99,"europe,middle east,turkey,caucasus,russia,iran,central asia,china,japan.,introduced,north america"
+Araneus_eburneiventris,continent,no,Australia,85,17,70141.09725,7691990.893,8.827422,39.01717104,continent,15282935.98,australia
+Araneus_gemmoides,continent,no,"USA, Canada",977,334,5690421.751,19400077.9,26.447941,52.05850925,continent,7654571.636,"usa,canada"
+Araneus_marmoreus,island_continent,yes,"North America, Europe, Turkey, Caucasus, Russia, Europe, Iran, Central Asia, China, Korea, Japan",8936,5454,NA,63701428.4,39.247297,82.10629988,island_continent,40626711.51,"north america,europe,turkey,caucasus,russia,iran,central asia,china,korea,japan"
+Araneus_quadratus,island_continent,yes,"Europe, Turkey, Russia, Central Asia to China, Japan",14244,4203,14841640.16,40501332.6,30.773892,82.10629988,island_continent,26376716.14,"europe,turkey,russia,central asia,china,japan"
+Araneus_rotundulus,continent,no,Australia,81,32,64678.21933,7691990.893,6.352573,39.01717104,continent,2530852.75,australia
+Araneus_talipedatus,island_continent,yes,Australia,335,176,3230373.598,7691990.893,18.276146,39.01717104,island_continent,6339768.726,australia
+Araneus_ventricosus,island_continent,no,"Russia, Korea, Japan, China, Taiwan",964,104,2850040.523,26959923.57,22.438222,39.52467199,island_continent,2765138.932,"russia,korea,japan,china,taiwan"
+Araniella_cucurbitina,island_continent,no,"Europe, Turkey, Russia (Europe) to Central Asia, China, Korea",6832,4797,7500501.948,40349461.5,31.859034,82.10629988,island_continent,16372361.91,"europe,turkey,russia,central asia,china,korea"
+Araniella_displicata,island_continent,yes,"North America, Europe, Russia, Europe, Kazakhstan, China, Korea, Japan",2995,1144,10270639.39,60177216.62,38.124742,82.10629988,island_continent,27985553.9,"north america,europe,russia,kazakhstan,china,korea,japan"
+Aranoethra_cambridgei,continent,no,"West, Central Africa",19,1,0,5309580.286,0,18.21253469,continent,57694.74889,"west,central africa"
+Argiope_aetherea,island_continent,yes,China to Australia,466,146,2266154.15,17065182.92,18.875103,62.19191331,island_continent,19161985.49,"china,australia"
+Argiope_appensa,island,yes,"Taiwan, New Guinea, Southeast Asia",1071,97,1229274.621,4937837.545,23.499347,32.55688327,island,476356.6322,"taiwan,new guinea,southeast asia"
+Argiope_argentata,island_continent,yes,"USA, Central America, South America",9405,5656,21032643.28,29777772.94,82.458813,98.68615651,island_continent,31397107.61,"usa,central america,south america"
+Argiope_aurantia,island_continent,no,"North America, Central America",25004,4814,10603822.88,21875348.71,34.643567,52.05850925,island_continent,24313317.33,"north america,central america"
+Argiope_hoiseni,NA,yes,Malaysia,12,,,,,,,,
+Argiope_ocyaloides,continent,yes,Australia,145,66,1512382.132,7691990.893,16.359192,39.01717104,continent,6405776.967,australia
+Argiope_protensa,island_continent,yes,"New Guinea, Australia, New Caledonia, New Zealand",940,300,7517647.934,8443629.015,32.221761,57.43007084,island_continent,20607234.97,"new guinea,australia,new caledonia,new zealand"
+Argiope_trifasciata,island_continent,NA,"North America, Central America, South America",9097,4692,29295820.04,39715123.3,95.856476,109.6740354,island_continent,33789974.41,"north america,central america,south america"
+Argyrodes_argentatus,continent,no,India,24,,,,,,,,
+Argyrodes_flavescens,continent,no,India,137,,,,,,,,
+Ariamnes_attenuatus,island,no,Costa Rica,62,,,,,,,,
+Ariamnes_cylindrogaster,island,no,"Japan, Taiwan, Laos",258,6,23687.02446,636745.5051,12.941081,18.14528939,island,31137.34387,"japan,taiwan,laos"
+Asagena_phalerata,island_continent,no,"Europe, Russia (Europe to Far East), Kazakhstan, Iran, Central Asia, China, Korea",3837,1565,6980953.604,41971598.4,28.427016,82.10629988,island_continent,2881489.575,"europe,russia,far east),kazakhstan,iran,central asia,china,korea"
+Audifia_sp,NA,NA,NA,0,,,,,,,,
+Augusta_glyphica,island,no,Madagascar,10,6,30110.65846,592983.4955,7.596142,0,island,215889.6657,madagascar
+Austracantha_minax,island_continent,yes,"Australia, Tasmania",3445,1333,7457523.286,8512450.039,29.595369,59.16989275,island_continent,20444241.81,"australia,tasmania"
+Backobourkia_heroine,island_continent,no,"Australia, New Caledonia,New Zealand",271,9,670716.0229,7691990.893,15.257818,39.01717104,island_continent,2822376.858,"australia,new caledonia,new zealand"
+Bijoaraneus_mitificus,island_continent,no,"Pakistan, India, Bangladesh, China, Taiwan, Thailand, Cambodia, Singapore, Philippines, New Guinea",667,339,8562045.264,15026698.13,30.914529,43.23055495,island_continent,15981687.64,"pakistan,india,bangladesh,china,taiwan,thailand,cambodia,singapore,philippines,new guinea"
+Bijoaraneus_praesignis,continent,no,Australia,115,79,343819.4566,7691990.893,15.41268,39.01717104,continent,2530852.75,australia
+Caerostris_sp,NA,NA,NA,0,,,,,,,,
+Callobius,NA,NA,NA,0,,,,,,,,
+Canalidion_montanum,continent,no,North America,766,59,33852.85185,21357404.83,5.365316,52.05850925,continent,1507386.31,north america
+Carepalxis_sp,NA,NA,NA,0,,,,,,,,
+Celaenia_calotoides,continent,no,Australia,69,32,3443312.996,7691990.893,18.623747,39.01717104,continent,19027823.64,australia
+Cercidia_prominens,island_continent,no,"North America, Europe, Caucasus, Russia, Europe, Kazakhstan",2200,1470,9794739.147,50211045.35,32.623944,82.10629988,island_continent,15896612.64,"north america,europe,caucasus,russia,kazakhstan"
+Cerocida_strigosa,continent,no,Venezuela,11,,,,,,,,
+Chikunia_albipes,island_continent,yes,Russia (Far East) Japan,28,,,,,,,,
+Chikunia_nigra,continent,yes,India,51,6,456270.3212,3152910.005,12.164796,12.47897777,continent,269871.8509,india
+Chikunia_sp,NA,NA,NA,0,,,,,,,,
+Chorizopes_nipponicus,NA,no,"China, Korea, Japan",73,,,,,,,,
+Chrosiothes_cf,NA,NA,NA,0,,,,,,,,
+Clitaetra_irenae,continent,no,"Malawi, South Africa",5,2,0,1339244.282,0.003051,15.79005497,continent,93282.87852,"malawi,south africa"
+Colaranea_viriditas,island,no,New Zealand,256,146,182847.4143,267758.5077,11.910355,0,island,248694.2708,new zealand
+Coleosoma_acutiventer,continent,no,"north america, central america, south america",91,4,568427.2299,39715123.3,36.52904,109.6740354,continent,2313889.823,"north america,central america,south america"
+Coleosoma_octomaculatum,island,no,"Japan,Taiwan",146,,,,,,,,
+Crustulina_sticta,island_continent,polytipic,"North America, Caucasus, Russia, Kazakhstan,Iran,Central,Asia,China,Korea,Japan",687,10,9087388.383,38500368.73,24.636621,55.78063288,continent,2918303.447,"north america,caucasus,russia,kazakhstan,iran,central,asia,china,korea,japan"
+Cryptachaea_blattea,continent,yes,Africa,1251,,,,,,,,
+Cryptachaea_riparia,island_continent,no,"Europe,Russia, China, Korea, Japan",572,,,,,,,,
+Cryptaranea_subcompta,island,yes,New Zealand,24,4,5068.282316,267758.5077,5.650862,0,island,87928.41044,new zealand
+Cyclosa_argenteoalba,island_continent,yes,"China, Korea, Taiwan, Japan, Russia",204,10,606451.6863,26959923.57,15.667523,39.52467199,continent,476277.197,"china,korea,taiwan,japan,russia"
+Cyclosa_caroli,island_continent,no,"USA, Caribbean, South America",359,21,1006144.15,29777772.94,17.857143,98.68615651,island_continent,1436506.326,"usa,caribbean,south america"
+Cyclosa_confusa,island_continent,yes,"China, Korea, Taiwan, Japan",103,10,3349.650438,10002377.84,1.928332,18.0352402,island_continent,3372.912243,"china,korea,taiwan,japan"
+Cyclosa_conica,island_continent,no,"North America, Europe, Turkey, Caucasus, Russia, Europe, Iran, Central Asia, China",6244,3398,27325847.05,63108449.16,34.901224,82.10629988,island_continent,30567226.45,"north america,europe,turkey,caucasus,russia,iran,central asia,china"
+Cyclosa_monticola,island_continent,yes,"China, Korea, Taiwan, Japan, Russia",53,2,0,26959923.57,5.697525,39.52467199,continent,111811.7299,"china,korea,taiwan,japan,russia"
+Cyclosa_octotuberculata,island_continent,yes,"China, Korea, Taiwan, Japan",272,26,298458.6638,10002377.84,11.174646,18.0352402,island_continent,174476.1186,"china,korea,taiwan,japan"
+Cyclosa_walckenaeri,island_continent,no,"USA, Central America, Colombia, Venezuela, Guyana, Ecuador, Caribbean",136,59,1068691.916,14678339.66,13.945384,48.39974368,island_continent,1104613.478,"usa,central america,colombia,venezuela,guyana,ecuador,caribbean"
+Cyrtarachne_bufo,island_continent,no,"China, Korea, Japan",115,11,72189.05495,9966171.268,13.196475,18.0352402,island_continent,12766065.87,"china,korea,japan"
+Cyrtarachne_inaequalis,continent,no,"India, China, Korea, Myanmar",198,17,3239285.395,13409569.5,28.003031,18.95647776,continent,263452.8484,"india,china,korea,myanmar"
+Cyrtarachne_nagasakiensis,island_continent,yes,"Pakistan, India, China, Korea, Japan",75,1,0,13991960.2,0,18.0352402,island,5153.262022,"pakistan,india,china,korea,japan"
+Cyrtarachne_yunoharuensis,continent,yes,"China, Korea, Japan",65,1,0,9966171.268,0,18.0352402,continent,122303.7731,"china,korea,japan"
+Cyrtophora_cylindroides,island_continent,NA,"China, Southeast Asia, Australia",115,11,890989.5395,21501879.15,16.576858,62.19191331,island_continent,124640.9659,"china,southeast asia,australia"
+Cyrtophora_moluccensis,island_continent,yes,"India, Japan, South Asia, China, Indonesia, Papua New Guinea, Australia, Solomon Is.,, Palau, Micronesia, Fiji, Tonga, French Polynesia",1036,283,5187293.146,26501107.44,52.228127,62.22112485,island_continent,7274487.325,"india,japan,south asia,china,indonesia,papua new guinea,australia,solomon is.,,palau,micronesia,fiji,tonga,french polynesia"
+Deinopis_spinosa,NA,NA,NA,105,,,,,,,,
+Deliochus_160,NA,NA,NA,0,,,,,,,,
+Dipoena_cf,NA,NA,NA,2,,,,,,,,
+Dolophones_46,NA,NA,NA,0,,,,,,,,
+Echinotheridion_otlum,continent,no,Ecuador,3,,,,,,,,
+Enoplognatha_bryjai,continent,no,Czechia,12,,,,,,,,
+Enoplognatha_caricis,island_continent,no,"Europe, China, Korea, Japan",555,76,NA,36105553.64,11.27781,82.10629988,continent,891867.145,"europe,china,korea,japan"
+Enoplognatha_latimana,island_continent,yes,"Europe, North Africa, Turkey, Caucasus, Russia, Iran",1446,978,1822840.098,36011756.37,15.58204,82.10629988,island_continent,13811860.81,"europe,north africa,turkey,caucasus,russia,iran"
+Enoplognatha_margarita,island_continent,no,"Russia, South Siberia, China, Korea, Japan",53,,,,,,,,
+Enoplognatha_ovata,island_continent,yes,"Europe, Russia, Kazakhstan, Iran, Central Asia Japan.,",17241,6684,7885264.033,30475777.43,27.019924,82.10629988,island_continent,16661733.79,"europe,russia,kazakhstan,iran,central asia japan.,"
+Episinus_affinis,island_continent,no,"India, Taiwan, Japan, Ryukyu Is.,",73,,,,,,,,
+Episinus_angulatus,island_continent,no,"Europe, Kazakhstan, Central Asia",2364,1201,5094067.82,30755715.4,24.687821,82.10629988,island_continent,15615868.62,"europe,kazakhstan,central asia"
+Episinus_nubilus,island,no,"Japan, Taiwan",115,,,,,,,,
+Eriophora_ravilla,island_continent,yes,"USA, Central America, South America",1677,837,7517912.732,29777772.94,37.547685,98.68615651,island_continent,15616511.84,"usa,central america,south america"
+Eriophora_sp,NA,NA,NA,0,,,,,,,,
+Eriovixia_laglaizei,island_continent,no,"India, Bangladesh, China, Southeast Asia, New Guinea",209,77,3093005.516,17564941.23,31.036184,45.42229679,island_continent,1324119.086,"india,bangladesh,china,southeast asia,new guinea"
+Eriovixia_sp,NA,NA,NA,0,,,,,,,,
+Euryopis_funebris,continent,no,USA,161,27,1929602.64,9462727.54,14.899984,41.07063035,continent,1384002.233,usa
+Eustala_117,NA,NA,NA,0,,,,,,,,
+Eustala_anastera,island_continent,yes,"North America, Central America",624,186,5593800.795,21875348.71,35.077202,52.05850925,island_continent,7052537.896,"north america,central america"
+Eustala_cepina,continent,yes,North America,139,6,1036736.412,21357404.83,13.275331,52.05850925,continent,1267794.888,north america
+Eustala_emertoni,continent,no,"USA, Mexico",126,1,0,11420054.47,0,41.07063035,continent,157910.8751,"usa,mexico"
+Exalbidion_pallisterorum,continent,no,Mexico,2,,,,,,,,
+Exechocentrus_lancearius,NA,no,Madagascar,3,,,,,,,,
+Faiditus_chickeringi,continent,no,Panama,12,,,,,,,,
+Gasteracantha_cancriformis,island_continent,yes,"North America, Central America, Caribbean, South America",12956,7953,23120888.52,39715123.3,76.60355,109.6740354,island_continent,27802571.75,"north america,central america,caribbean,south america"
+Gasteracantha_diardi,island_continent,yes,"India, China, Laos, Thailand, Malaysia, Indonesia",213,111,2203082.311,15490385.51,27.428709,45.42229679,island_continent,526543.6073,"india,china,laos,thailand,malaysia,indonesia"
+Gasteracantha_doriae,island_continent,yes,"Thailand, Malaysia, Singapore, Indonesia",71,43,391274.4852,2736680.269,11.72281,23.94100463,island_continent,657014.0148,"thailand,malaysia,singapore,indonesia"
+Gasteracantha_kuhli,island_continent,yes,"India, China, Southeast Asia, North Korea, Korea, South Asia, Japan, Philippines and Indonesia",1015,334,10279258.19,21083566.66,48.918141,48.97584522,island_continent,3904112.751,"india,china,southeast asia,north korea,korea,south asia,japan,philippines,indonesia"
+Gea_heptagon,island_continent,yes,"Pacific Is.,, Australia, Introduced to USA to Argentina",843,425,4554491.421,19937874.28,18.723654,82.13386037,island_continent,4516441.846,"pacific is.,,australia,introduced,usa,argentina"
+Gea_theridioides,island_continent,yes,Australia,157,80,1850841.536,7691990.893,12.472082,39.01717104,island_continent,19027891.44,australia
+Gibbaranea_261,NA,NA,NA,0,,,,,,,,
+Gibbaranea_bituberculata,island_continent,yes,"North Africa, Europe, Turkey, Israel, Russia, Europe, Iran, Central Asia, South Asia, China, Japan, India",2814,1924,7874578.302,54790087.17,33.774549,82.10629988,island_continent,14947929.4,"north africa,europe,turkey,israel,russia,iran,central asia,south asia,china,japan,india"
+Gibbaranea_occidentalis,island,yes,Azores,1848,1553,2395.573397,91643.57843,2.55811,0,island,12758531.41,azores
+Gnolus_cordiformis,continent,no,"Chile, Argentina",38,21,124307.472,3517370.817,11.200673,0.265388753,continent,402796.2834,"chile,argentina"
+Helvibis_cf,NA,NA,NA,0,,,,,,,,
+Herennia_multipuncta,island_continent,no,"India, South Asia, China, Vietnam, Borneo, Sulawesi",271,90,5404599.706,18276630.88,36.231571,45.42229679,island_continent,2523830.47,"india,south asia,china,vietnam,borneo,sulawesi"
+Hingstepeira_folisecens,NA,no,"Colombia, Brazil, Guyana, Suriname, French Guiana",28,,,,,,,,
+Hortophora_transmarina,island_continent,yes,"Papua New Guinea, Australia",0,,,,,,,,
+Hypognatha_224,NA,NA,NA,0,,,,,,,,
+Hypsosinga_heri,island_continent,no,"Europe, Caucasus, Russia, Siberia, Israel, Iran, Central Asia, China",583,416,2976874.942,41751044.33,16.79324,82.10629988,island_continent,1306290.304,"europe,caucasus,russia,siberia,israel,iran,central asia,china"
+Hypsosinga_pygmaea,island_continent,NA,"North America, Europe, Turkey, Israel, Caucasus, Russia, Iran, Central Asia, China, Korea, Japan, Vietnam, Turkey",2277,1396,19898783.01,64030327.12,38.934579,82.10629988,island_continent,18043221.84,"north america,europe,turkey,israel,caucasus,russia,iran,central asia,china,korea,japan,vietnam"
+Hypsosinga_sanguinea,island_continent,yes,"Europe, North Africa, Turkey, Russia, Iran, Central Asia, China, Korea, Japan",1299,793,5685936.456,50594260.66,29.0343,82.10629988,island_continent,2241647.907,"europe,north africa,turkey,russia,iran,central asia,china,korea,japan"
+Hyptiotes_cavatus,NA,NA,NA,50,,,,,,,,
+Isoxya_mahafalensis,island,no,Madagascar,5,2,0,592983.4955,0,0,island,59853.13235,madagascar
+Kaira_alba,continent,no,"USA, Mexico",30,6,359099.558,11420054.47,6.66056,41.07063035,continent,844131.7832,"usa,mexico"
+Kochiura_aulica,island_continent,no,"Cape Verde Is.,,Europe, Caucasus, Turkey, Iran",1843,,,,,,,,
+Kochiura_rosea,continent,no,Chile,49,10,83200.16046,734214.965,10.019089,0,continent,135428.8622,chile
+Larinia_bonneti,island_continent,no,"France, Central Europe, Hungary, Caucasus, Russia, Europe, Japan",40,23,144777.8966,26511807.54,3.90475,82.10629988,continent,220337.2838,"france,central europe,hungary,caucasus,russia,europe,japan"
+Larinia_borealis,continent,yes,North America,89,37,1540046.324,21357404.83,14.508126,52.05850925,continent,2240787.364,north america
+Larinia_directa,island_continent,yes,"USA, Central America, South America",307,53,10196987.31,29777772.94,67.828662,98.68615651,island_continent,2839688.599,"usa,central america,south america"
+Lariniaria_argiopiformis,NA,no,"Russia, China, Korea, Japan",83,,,,,,,,
+Larinioides_cornutus,island_continent,no,"North America, Europe, Turkey, Israel, Caucasus, Russia, Europe, Iran, China, Korea, Japan",14949,3483,NA,59085095.38,44.167796,82.10629988,island_continent,31437642.59,"north america,europe,turkey,israel,caucasus,russia,iran,china,korea,japan"
+Lasaeola_prona,continent,no,"North America, Russia, Kazakhstan, Iran, Japan",204,1,0,43023770.79,0,55.78063288,continent,41619.79851,"north america,russia,kazakhstan,iran,japan"
+Lasaeola_tristis,island_continent,no,"Europe, Kazakhstan, Iran, Central Asia, Russia (South Siberia)",812,367,4228215.092,32377852.3,25.5554,82.10629988,island_continent,2104214.522,"europe,kazakhstan,iran,central asia,russia"
+Latrodectus_geometricus,island_continent,no,Africa,6710,324,20619390.19,29892056.69,64.57137,63.69610402,island_continent,2384787.522,africa
+Latrodectus_mactans,continent,no,North America,4289,1565,6450790.001,21357404.83,28.70526,52.05850925,island_continent,18974013.05,north america
+Latrodectus_renivulvatus,continent,yes,"Africa, Iraq",59,14,1534523.746,30329423.85,14.110151,63.69610402,continent,950113.3438,"africa,iraq"
+Leucauge_venusta,NA,NA,NA,8172,,,,,,,,
+Leviana_dimidiatus,NA,NA,NA,0,,,,,,,,
+Leviana_mulieraria,NA,no,Australia,0,,,,,,,,
+Macracantha_arcuata,island_continent,yes,"India, Sri Lanka, China, Myanmar, Thailand, Cambodia, Indonesia",352,118,2552246.477,15844682.8,34.397813,45.42229679,island_continent,1194447.927,"india,sri lanka,china,myanmar,thailand,cambodia,indonesia"
+Madacantha_nossibeana,NA,no,Madagascar,2,,,,,,,,
+Mangora_gibberosa,island_continent,no,North America,1137,452,5133578.754,21357404.83,23.56574,52.05850925,island_continent,7015228.062,north america
+Mastophora_apalachicola,NA,no,USA,3,,,,,,,,
+Mastophora_archeri,NA,no,USA,4,,,,,,,,
+Mastophora_bisaccata,continent,no,"USA, Mexico",32,15,1110079.12,11420054.47,12.900377,41.07063035,continent,911243.1651,"usa,mexico"
+Mastophora_cornigera,continent,no,"USA, Central America",94,33,2490989.75,11937998.34,10.795242,41.07063035,continent,1830219.209,"usa,central america"
+Mastophora_hutchinsoni,island_continent,no,"USA, Canada",38,18,602658.0007,19400077.9,7.430449,52.05850925,island_continent,2399808.362,"usa,canada"
+Mastophora_phrynosoma,continent,no,USA,67,44,733435.1154,9462727.54,8.035792,41.07063035,continent,1125968.545,usa
+Mastophora_stowei,continent,no,USA,10,1,0,9462727.54,0,41.07063035,continent,117298.2853,usa
+Mecynogea_lemniscata,island_continent,no,"USA, Central America, South America",1343,823,19434927.19,29777772.94,80.131163,98.68615651,island_continent,4105994.468,"usa,central america,south america"
+Meotipa_sp,NA,NA,NA,0,,,,,,,,
+Meta_ovalis,NA,NA,NA,253,,,,,,,,
+Metazygia_wittfeldae,continent,no,"North America, Central America",170,50,1092686.055,21875348.71,20.387093,52.05850925,continent,1321092.594,"north america,central america"
+Metellina_segmentata,NA,NA,NA,9107,,,,,,,,
+Metepeira_21,NA,NA,NA,0,,,,,,,,
+Micrathena_gracilis,continent,no,"North, Central America",5452,429,1396381.543,2475270.804,16.452633,15.42247657,continent,1173407.705,"north,central america"
+Micrathena_militaris,island,no,Greater Antilles,26,15,41933.86378,205278.2182,1.636021,3.458817857,island,33572.08137,greater antilles
+Micrathena_sagittata,island_continent,no,"North America, Central America",2029,1235,5206958.698,21875348.71,34.773152,52.05850925,island_continent,18985255.16,"north america,central america"
+Moneta_sp,NA,NA,NA,0,,,,,,,,
+Neoscona_crucifera,island_continent,NA,North America,5500,2722,7739822.947,21357404.83,31.226922,52.05850925,island_continent,20569168.41,north america
+Neoscona_domiciliorum,island_continent,no,USA,1274,752,2793914.357,9462727.54,16.93595,41.07063035,island_continent,16072348.77,usa
+Neoscona_mellotteei,island_continent,no,"China, Korea, Taiwan, Japan",184,18,359700.17,10002377.84,10.573518,18.0352402,island_continent,388596.0502,"china,korea,taiwan,japan"
+Neoscona_mukerjei,continent,yes,"Pakistan, India, Bangladesh",20,12,939099.5368,4162997.149,16.163667,12.47897777,continent,1168651.28,"pakistan,india,bangladesh"
+Neoscona_punctigera,island_continent,yes,"Reunion, India, Myanmar, China, Korea, Japan, Indonesia, Philippines, New Guinea, Australia",252,22,542384.4805,24128087.4,14.522091,65.74546175,island_continent,295815.7128,"reunion,india,myanmar,china,korea,japan,indonesia,philippines,new guinea,australia"
+Neoscona_scylla,island_continent,yes,"Russia, Pakistan, China, Korea, Japan",555,32,457111.4751,27796595.93,17.020686,39.52467199,island_continent,51582.86077,"russia,pakistan,china,korea,japan"
+Neoscona_subfusca,island_continent,yes,"Southern Europe, Africa, Turkey, Middle East, Ukraine, Caucasus, Russia, Tanzania, Equatorial Guinea",2402,1049,28577205.7,55587066.07,82.870434,91.2410869,island_continent,14233215.17,"southern europe,africa,turkey,middle east,ukraine,caucasus,russia,tanzania,equatorial guinea"
+Neoscona_subpullata,NA,yes,"China, Korea, Japan",173,,,,,,,,
+Neoscona_theisi,island_continent,no,"Cyprus, Israel, Caucasus, Iran, Pakistan, India, Nepal, Philippines, China to Indonesia, Japan, Australia., , Vietnam, New Caledonia, West, Central, East Africa, Mozambique, South Africa, Eswatini, Yemen, New Guinea",1083,26,3974737.189,32590757.47,60.374107,71.17805022,continent,2072935.75,"cyprus,israel,caucasus,iran,pakistan,india,nepal,philippines,china,indonesia,japan,australia.,,vietnam,new caledonia,west,central,east africa,mozambique,south africa,eswatini,yemen,new guinea"
+Neospintharus_trigonum,island_continent,no,"USA, Canada",819,125,3390300.343,19400077.9,18.715502,52.05850925,island_continent,5228558.115,"usa,canada"
+Neottiura_bimaculata,island_continent,no,"North America, Russia, Kazakhstan, Iran, Central Asia, China, Japan, Spain, France, Italy",6404,1369,NA,55744468.56,22.243658,55.78063288,island_continent,14949723.81,"north america,russia,kazakhstan,iran,central asia,china,japan,spain,france,italy"
+Nephilengys_malabarensis,island_continent,no,"India, China, South Asia, Southeast Asia, Philippines, Indonesia, Japan",376,148,3002301.034,20863012.59,27.825253,45.45150832,island_continent,14546848.93,"india,china,south asia,southeast asia,philippines,indonesia,japan"
+Neriene,NA,NA,NA,0,,,,,,,,
+Nesticodes_rufipes,island_continent,no,Central and South America,1302,489,17943581.04,25624625.68,64.979085,84.04525912,island_continent,9496984.909,"central,south america"
+Novakiella_trituberculosa,island_continent,no,"Australia, New Zealand",111,33,983217.1974,7959749.401,14.851715,57.43007084,island_continent,3874550.77,"australia,new zealand"
+Nuctenea_umbratica,island_continent,no,"Europe, Azerbaijan, Iran",12998,9842,6687827.87,27761519.28,31.751264,82.10629988,island_continent,16514683.55,"europe,azerbaijan,iran"
+Ocrepeira_ectypa,continent,no,USA,21,2,0,9462727.54,5.253968,41.07063035,continent,333003.3213,usa
+Ohlertidion_ohlerti,continent,no,North America,842,25,321338.4309,21357404.83,8.53148,52.05850925,continent,1507386.31,north america
+Paidiscura_pallens,island_continent,yes,"Europe, Georgia, Russia, South Siberia",5167,2874,2797369.058,26139382.37,29.481408,82.10629988,island_continent,14612073.47,"europe,georgia,russia,south siberia"
+Paralarinia_199,NA,NA,NA,0,,,,,,,,
+Paraplectana_tsushimensis,island_continent,no,"China, Taiwan, Japan",21,4,5768.419071,9781823.774,2.256998,14.5109033,island_continent,208645.7593,"china,taiwan,japan"
+Paraplectanoides_crassipes,island_continent,no,Australia,30,5,1827739.647,7691990.893,17.4624,39.01717104,island_continent,4324855.887,australia
+Parasteatoda_tabulata,continent,no,Tropical Asia,573,1,0,30166673.63,0,56.95997934,continent,102787.8731,tropical asia
+Parawixia_dehaani,island_continent,NA,"India, Southeast Asia, Philippines, Indonesia, New Guinea",388,94,3056131.082,8054540.977,28.712401,44.19518295,island_continent,1360413.059,"india,southeast asia,philippines,indonesia,new guinea"
+Parawixia_kochi,NA,NA,"Trinidad and Tobago, Brazil, Guyana, French Guiana",143,,,,,,,,
+Parmatergus_116,NA,NA,NA,0,,,,,,,,
+Pasilobus_122,NA,NA,NA,0,,,,,,,,
+Perilla_teres,NA,no,"Myanmar, Vietnam, Malaysia",10,,,,,,,,
+Pholcomma_hirsutum,continent,no,USA,181,2,0,9462727.54,2.636063,41.07063035,continent,179988.1286,usa
+Phonognatha_graeffei,island_continent,no,Australia,1373,564,4008211.329,7691990.893,25.857526,39.01717104,island_continent,19096045.05,australia
+Phoroncidia_americana,continent,no,"USA, Jamaica",82,7,37317.85197,9473753.601,5.96277,41.07063035,continent,118445.0738,"usa,jamaica"
+Phoroncidia_sp,NA,NA,NA,0,,,,,,,,
+Phycosoma_mustelinum,island_continent,no,"Russia, Japan, Indonesia",794,,,,,,,,
+Phylloneta_impressa,island_continent,no,"North America, Russia, Europe, Kazakhstan, Iran, Central Asia, China, India",3862,2244,7188892.171,66261359.17,26.71043,82.10629988,island_continent,17176178.87,"north america,russia,europe,kazakhstan,iran,central asia,china,india"
+Phylloneta_pictipes,island_continent,no,USA,74,32,286782.6038,9462727.54,4.916605,41.07063035,island_continent,740097.3102,usa
+Pimoa_121,NA,NA,NA,0,,,,,,,,
+Platnickina_alabamensis,continent,no,USA,15,1,0,9462727.54,0,41.07063035,continent,225335.5434,usa
+Platnickina_mneon,continent,no,South America,74,7,577137.6519,20315045.4,18.829216,84.04525912,continent,477010.5462,south america
+Platnickina_punctosparsa,continent,no,USA,5,1,0,9462727.54,0,41.07063035,continent,21023.32808,usa
+Plebs_bradleyi,island_continent,yes,"Australia, Tasmania",967,423,495754.3637,8512450.039,14.63546,59.16989275,island_continent,14839274.98,"australia,tasmania"
+Plebs_cyphoxis,continent,NA,Australia,446,49,256890.2067,7691990.893,5.228444,39.01717104,continent,16267117.15,australia
+Poecilopachys_australasia,continent,no,Australia,718,179,1171554.229,7691990.893,21.55674,39.01717104,continent,2758348.538,australia
+Poltys_illepidus,continent,no,"Thailand, Southeast Asia, Australia",209,58,1495553.42,12128687.12,11.71667,46.78898399,continent,5604899.034,"thailand,southeast asia,australia"
+Poltys_laciniosus,continent,no,Australia,174,114,5852128.574,7691990.893,23.538052,39.01717104,continent,7617453.926,australia
+Pycnacantha_fuscosa,NA,no,Madagascar,2,,,,,,,,
+Quokkaraneus_necopinus,NA,no,Australia,3,,,,,,,,
+Rhomphaea_metaltissima,continent,no,"Panama, Colombia, Brazil",12,2,0,9679258.871,0,19.35822206,continent,277624.2408,"panama,colombia,brazil"
+Robertus_lividus,island_continent,no,"USA, Russia, Europe, Iran",10493,3739,5905030.938,37224246.82,28.678485,82.10629988,island_continent,16127053.82,"usa,russia,europe,iran"
+Robertus_neglectus,island_continent,no,Europe,942,499,4005708.383,26139382.37,26.243638,82.10629988,island_continent,13952874.4,europe
+Rubrepeira_rubronigra,continent,yes,"Central America, South America",28,10,35526.8625,20315045.4,3.234712,84.04525912,continent,115997.9904,"central america,south america"
+Rugathodes_aurantius,continent,no,North America,751,31,79041.33218,21357404.83,6.05033,52.05850925,continent,1507386.31,north america
+Rugathodes_sexpunctatus,island_continent,no,USA,1570,398,NA,9462727.54,18.142738,41.07063035,island_continent,1615747.238,usa
+Rugathodes_sp,NA,NA,NA,0,,,,,,,,
+Salsa_recherchensis,continent,no,Australia,39,5,62350.26194,7691990.893,2.792758,39.01717104,continent,2526727.456,australia
+Sardinidion_blackwalli,island_continent,no,Europe,593,328,1967530.188,26139382.37,22.229249,82.10629988,island_continent,1174376.92,europe
+Scoloderus_cordatus,continent,no,"Mexico, central america,South America,",68,2,0,1957326.927,0,0,continent,76134.74809,"mexico,central america,south america,"
+Selkirkiella_alboguttata,island_continent,yes,Chile,0,,,,,,,,
+Selkirkiella_luisi,island_continent,yes,Chile,0,,,,,,,,
+Singa_nitidula,continent,no,"Europe, Turkey, Russia, Europe, Caucasus to Central Asia",633,410,6099369.671,30755715.4,21.245102,82.10629988,continent,14738833.52,"europe,turkey,russia,caucasus,central asia"
+Socca_pustulosa,island_continent,yes,"Australia, New Zealand",491,41,605887.8685,7959749.401,10.638503,57.43007084,island_continent,16381821.26,"australia,new zealand"
+Socca_senicaudatus,NA,NA,NA,0,,,,,,,,
+Spilasma_duodecimguttata,continent,yes,"Central America, South America",85,7,2862376.861,20315045.4,18.77393,84.04525912,continent,3204797.821,"central america,south america"
+Spintharus_flavidus,island_continent,no,USA,303,97,1244027.9,9462727.54,16.831174,41.07063035,island_continent,1439637.095,usa
+Steatoda_bipunctata,island_continent,no,"Europe, Israel, Caucasus, Russia, Kazakhstan, Iran, Central, Asia, China.,",6728,4043,9826197.872,61615636.29,28.627585,83.56332948,island_continent,18197570.14,"europe,israel,caucasus,russia,kazakhstan,iran,central,asia,china.,"
+Steatoda_borealis,island_continent,no,USA,889,252,11087822.2,9462727.54,32.264955,41.07063035,island_continent,4781296.897,usa
+Steatoda_castanea,island_continent,no,"Europe, Caucasus, Iran, Central Asia, China",595,336,7009046.644,41751044.33,20.735181,82.10629988,island_continent,2391474.57,"europe,caucasus,iran,central asia,china"
+Steatoda_cingulata,island_continent,no,"China, Vietnam, Laos, Japan, Indonesia",142,6,622182.906,12196470.66,37.149939,45.45150832,island_continent,163988.0677,"china,vietnam,laos,japan,indonesia"
+Steatoda_triangulosa,island_continent,no,"Europe, Russia, Kazakhstan, Iran, Central Asia., Libya",6461,1966,6780934.729,32099516.17,30.490187,82.10629988,island_continent,15331104.15,"europe,russia,kazakhstan,iran,central asia.,libya"
+Stemmops_cf,NA,NA,NA,0,,,,,,,,
+Stemmops_nipponicus,island_continent,no,"Russia, Japan",349,,,,,,,,
+Styposis_selis,continent,no,Brazil,63,1,0,8470788.47,0,0,continent,199159.1968,brazil
+Synotaxus_225,NA,NA,NA,0,,,,,,,,
+Takayus_latifolius,island_continent,no,"Russia, Japan",23,,,,,,,,
+Takayus_quadrimaculatus,continent,no,China,25,,,,,,,,
+Takayus_takayensis,continent,no,China,107,,,,,,,,
+Telaprocera_joanae,continent,no,Australia,67,6,307.283604,7691990.893,0.897036,39.01717104,continent,1729974.818,australia
+Telaprocera_maudae,continent,no,Australia,165,39,222991.1744,7691990.893,14.54016,39.01717104,continent,2530852.75,australia
+Testudinaria_109,NA,NA,NA,0,,,,,,,,
+Tetragnatha_versicolor,NA,NA,NA,1608,,,,,,,,
+Thelacantha_brevispina,island_continent,yes,"Madagascar, Mauritius, Pakistan to Japan and New Guinea, Australia, Fiji, French Polynesia, Hawaii",751,139,492830.5572,19482210.99,43.899692,72.524891,island_continent,14505676.39,"madagascar,mauritius,pakistan,japan,new guinea,australia,fiji,french polynesia,hawaii"
+Theridiinae_sp,NA,NA,NA,0,,,,,,,,
+Theridiinae_sp_2,NA,NA,NA,0,,,,,,,,
+Theridiinae_sp_2,NA,NA,NA,0,,,,,,,,
+Theridion_acutitarse,island,no,USA (Hawaii),14,,,,,,,,
+Theridion_albidum,continent,no,USA,248,5,2081316.334,9462727.54,12.638171,41.07063035,continent,763695.8031,usa
+Theridion_calcynatum,continent,no,south america,42,20,60792.29507,20315045.4,4.348507,84.04525912,continent,316335.7511,south america
+Theridion_californicum,continent,yes,USA,96,3,17010.65716,9462727.54,9.034582,41.07063035,continent,584494.3555,usa
+Theridion_cf,NA,NA,NA,4,,,,,,,,
+Theridion_differens,continent,yes,USA,582,15,3040092.206,9462727.54,11.129879,41.07063035,continent,1532860.548,usa
+Theridion_flavonotatum,continent,no,USA,23,3,117475.6518,9462727.54,5.201982,41.07063035,continent,894164.2308,usa
+Theridion_frondeum,continent,yes,USA,710,32,2367612.216,9462727.54,18.332987,41.07063035,continent,1422096.942,usa
+Theridion_glaucescens,continent,no,USA,187,7,794259.456,9462727.54,7.188928,41.07063035,continent,823358.6098,usa
+Theridion_grallator,island,yes,USA (Hawaii),74,21,5670.300399,9462727.54,2.171191,41.07063035,island,16724.29052,usa
+Theridion_kauaiense,island,no,USA (Hawaii),3,,,,,,,,
+Theridion_longipedatum,continent,no,Colombia,3,,,,,,,,
+Theridion_melanostictum,island_continent,NA,"Macaronesia, Mediterranean, Egypt, India, Central Asia, China, Japan.,",501,106,9246788.916,25925348.87,64.12227,30.25063295,island_continent,12961239.95,"macaronesia,mediterranean,egypt,india,central asia,china,japan.,"
+Theridion_melanurum,island,yes,"Macaronesia, Turkey, Caucasus, Russia, (Europe to Middle Siberia), Middle East.,",1106,28,2083.482581,18522184.32,2.5287,22.67193325,island,2322.884818,"macaronesia,turkey,caucasus,russia,,middle siberia),middle east.,"
+Theridion_murarium,continent,no,North America,509,45,3357368.979,21357404.83,15.553062,52.05850925,continent,3222779.823,north america
+Theridion_nigroannulatum,continent,no,Ecuador,4,,,,,,,,
+Theridion_pennsylvanicum,continent,no,USA,18,,,,,,,,
+Theridion_pictum,continent,no,"North America, Caucasus Russia, Kazakhstan, Turkemenistan, China, Japan",1985,24,5322095.335,34288114.95,23.608058,52.05850925,continent,4106089.946,"north america,caucasus russia,kazakhstan,turkemenistan,china,japan"
+Theridion_pinastri,island_continent,no,"Europe, China, Korea, Japan",1017,414,4624944.055,36105553.64,20.7711,82.10629988,island_continent,14252066,"europe,china,korea,japan"
+Theridion_posticatum,island,yes,USA (Hawaii),2,,,,,,,,
+Theridion_sangzhiense,continent,no,China,1,,,,,,,,
+Theridion_sp,NA,NA,NA,0,,,,,,,,
+Theridion_theridioides,continent,no,China,61,,,,,,,,
+Theridion_varians,island_continent,yes,"Europe, Caucasus Russia, Kazakhstan, Iran, Central Asia China., Libya, Western Mediterranean",5111,2435,7270168.074,35156234.34,32.137198,82.10629988,island_continent,16055830.16,"europe,caucasus russia,kazakhstan,iran,central asia china.,libya,western mediterranean"
+Theridula_emertoni,continent,no,USA,277,13,772550.3866,9462727.54,9.489428,41.07063035,continent,703829.2903,usa
+Theridula_opulenta,continent,no,North America,62,10,821241.5737,21357404.83,8.350547,52.05850925,continent,609281.3823,north america
+Thymoites_unimaculatus,continent,no,USA,287,14,691495.1976,9462727.54,7.54193,41.07063035,continent,725782.1922,usa
+Tidarren_sisyphoides,continent,no,"north america, central america, south america",228,28,9168174.435,39715123.3,72.054333,109.6740354,continent,1976174.145,"north america,central america,south america"
+Trichonephila_clavipes,island_continent,no,"USA, Central America, South America, Caribbean",12744,7887,19023627.92,29777772.94,75.051873,98.68615651,island_continent,28680688.8,"usa,central america,south america,caribbean"
+Trichonephila_inaurata,island_continent,no,"South Africa, Mauritius, Reunion, Seychelles",557,62,1248014.79,1222269.046,29.674798,24.3472146,island_continent,700157.3653,"south africa,mauritius,reunion,seychelles"
+Trichonephila_senegalensis,island_continent,no,"West Africa, Central Africa, Ethiopia",323,11,2898.179985,12470319.46,3.748382,23.13585114,island_continent,96037.93418,"west africa,central africa,ethiopia"
+Uloborus_diversus,NA,NA,NA,304,,,,,,,,
+Verrucosa_arenata,island_continent,yes,"USA, Central America, Greater Antilles",3823,2462,4973282.314,12143276.56,35.116428,41.07063035,island_continent,5232938.11,"usa,central america,greater antilles"
+Wagneriana_atuna,NA,yes,"Cuba, Costa Rica, Panama, Colombia, Ecuador, Peru, Bolivia, Paraguay",53,,,,,,,,
+Wagneriana_tauricornis,continent,no,"USA, Central America, South America",110,41,4413806.326,29777772.94,60.32385,98.68615651,continent,1225808.829,"usa,central america,south america"
+Waitkera_waitakerensis,NA,NA,NA,23,,,,,,,,
+Wamba_crispulus,continent,no,"north america, central america, south america",187,12,8731170.118,39715123.3,78.462929,109.6740354,continent,1114929.917,"north america,central america,south america"
+Witica_cayanus,island_continent,yes,"Colombia, Venezuela, Trinidad and Tobago, French Guiana, Ecuador, Peru, Brazil",33,,,,,,,,
+Witica_crassicauda,island_continent,yes,"Mexico, Central America, South America",52,14,661300.1857,20315045.4,20.332292,84.04525912,island_continent,86544.13076,"mexico,central america,south america"
+Yunohamella_lyricus,NA,NA,NA,0,,,,,,,,
+Yunohamella_palmgreni,continent,no,"Finland, Poland, Estonia, Russia",80,22,104674.0644,17649817.35,9.132455,18.53135836,continent,196402.0124,"finland,poland,estonia,russia"
+Zealaranea_crassa,island,yes,New Zealand,89,35,153546.5614,267758.5077,9.577506,0,island,12961981.77,new zealand
+Zygiella_atrica,island_continent,no,Europe,1533,922,3519688.196,26139382.37,26.115124,82.10629988,island_continent,14262942.21,europe
+Zygiella_x-notata,island_continent,yes,"Europe, Turkey, Caucasus, Iran",7879,5560,4600185.012,27761519.28,33.715035,82.10629988,island_continent,14758667.27,"europe,turkey,caucasus,iran"
