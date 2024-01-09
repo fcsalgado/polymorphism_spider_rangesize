@@ -1,4 +1,4 @@
-# Is colour polymorphism associated with range size? Insights into the distribution of colour polymorphic spiders 
+# Colour polymorphic species do not exhibit broader range sizes: The case of web-building spiders
 
 Fabian C. Salgado-Roa*, Devi Stuart-Fox, Thomas E. White, Iliana Medina
 *Email: fcsalgador@gmail.com.com
