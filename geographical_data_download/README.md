@@ -112,3 +112,12 @@ Please note that the actual download must be done on the GBIF website after logg
 ## Run geo_measure.R to get the species data
 
 __geo_measure.R__ performs geographical measurements and analyses on species data. For each species, the script generates CSV files containing the results of the geographical measurements. These files are saved in the "results" folder. The script will also generate CSV files with the "clean" geographical records stored in the "points" folder.
+
+The input to run this files can be obtained here: 
+
+datos: [here](https://github.com/fcsalgado/polymorphism_spider_rangesize/blob/main/geographical_data_download/data/data_filtered_countries.csv)
+continent: [here](https://github.com/fcsalgado/polymorphism_spider_rangesize/blob/main/geographical_data_download/data/data_filtered_countries.csv)
+join_islands: [here](https://github.com/fcsalgado/polymorphism_spider_rangesize/blob/main/geographical_data_download/data/data_filtered_countries.csv)
+eco_reg: [here](https://ecoregions.appspot.com/)
+temperature: [here](https://www.gloh2o.org/koppen/)
+world: [here](https://github.com/fcsalgado/polymorphism_spider_rangesize/blob/main/geographical_data_download/data/data_filtered_countries.csv)
