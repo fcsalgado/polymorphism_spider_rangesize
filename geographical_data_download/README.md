@@ -116,8 +116,9 @@ __geo_measure.R__ performs geographical measurements and analyses on species dat
 The input to run this files can be obtained here: 
 
 datos: [here](https://github.com/fcsalgado/polymorphism_spider_rangesize/blob/main/geographical_data_download/data/data_filtered_countries.csv)
-continent: [here](https://github.com/fcsalgado/polymorphism_spider_rangesize/blob/main/geographical_data_download/data/data_filtered_countries.csv)
-join_islands: [here](https://github.com/fcsalgado/polymorphism_spider_rangesize/blob/main/geographical_data_download/data/data_filtered_countries.csv)
+continent: [here](https://zenodo.org/records/10472802)
+join_islands: [here](https://zenodo.org/records/10472802)
 eco_reg: [here](https://ecoregions.appspot.com/)
 temperature: [here](https://www.gloh2o.org/koppen/)
-world: [here](https://github.com/fcsalgado/polymorphism_spider_rangesize/blob/main/geographical_data_download/data/data_filtered_countries.csv)
+world: [here](https://zenodo.org/records/10472802)
+GBIF data: [here](https://zenodo.org/records/10472802)
