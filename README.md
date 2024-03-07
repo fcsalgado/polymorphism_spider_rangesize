@@ -1,7 +1,7 @@
 # Colour polymorphic species do not exhibit broader range sizes: The case of web-building spiders
 
 Fabian C. Salgado-Roa*, Devi Stuart-Fox, Thomas E. White, Iliana Medina
-*Email: fcsalgador@gmail.com.com
+*Email: fcsalgador@gmail.com
 
 This repository contains scripts, raw data and instruction to replicate the analyses of the paper: DOI/XXXX
 
