@@ -1,4 +1,4 @@
-# Colour polymorphic species do not exhibit broader range sizes: The case of web-building spiders
+# Colour polymorphism is prevalent on islands but shows no association with range size in web-building spiders
 
 Fabian C. Salgado-Roa*, Devi Stuart-Fox, Thomas E. White, Iliana Medina
 *Email: fcsalgador@gmail.com
